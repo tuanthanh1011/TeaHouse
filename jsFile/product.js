@@ -1,3 +1,4 @@
+/* ... */
 
 
 const menuItems = document.querySelectorAll(".body__menu-nav-link");

@@ -1,3 +1,4 @@
+/* ... */
 export function toast({title, message, type,duration}){
     const main = document.getElementById('toast')
     if(main){
